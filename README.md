@@ -14,20 +14,24 @@
 
 ### Lesson 2: Variables
 
-### Lesson 3: Functions
-<!-- (a + b) ^ 2 = a^2 + b^2 + a*b -->
-
 ### Lesson 3: Conditionals
 
-### Lesson 3: Loops
+### Lesson 4: Functions
+<!-- (a + b) ^ 2 = a^2 + b^2 + a*b -->
+
+### Lesson 5: Array and Loops
 
 ### Test: FizzBuzz
-<!-- Given an integer n, return a string array answer (1-indexed) where:
+<!-- Ask the user to enter a number n
+Write a program that prints each number i from 1 to n on a new line.
 
-answer[i] == "FizzBuzz" if i is divisible by 3 and 5.
-answer[i] == "Fizz" if i is divisible by 3.
-answer[i] == "Buzz" if i is divisible by 5.
-answer[i] == i (as a string) if none of the above conditions are true. -->
+For each multiple of 3, print "Fizz"
+
+For each multiple of 5, print "Buzz"
+
+For numbers which are multiples of both 3 and 5, print "FizzBuzz"
+
+Else, print i -->
 
 # Lesson 4: Calling APIs
 
